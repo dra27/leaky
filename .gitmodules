@@ -18,7 +18,7 @@
 	url = https://github.com/aantron/markup.ml
 [submodule "vendor/memtrace"]
 	path = vendor/memtrace
-	url = https://github.com/janestreet/memtrace
+	url = https://github.com/dra27/memtrace
 [submodule "vendor/memtrace_viewer_with_deps"]
 	path = vendor/memtrace_viewer_with_deps
 	url = https://github.com/dra27/memtrace_viewer_with_deps.git
