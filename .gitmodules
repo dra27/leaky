@@ -1,0 +1,63 @@
+[submodule "vendor/cmdliner"]
+	path = vendor/cmdliner
+	url = https://github.com/dbuenzli/cmdliner.git
+[submodule "vendor/csexp"]
+	path = vendor/csexp
+	url = https://github.com/ocaml-dune/csexp.git
+[submodule "vendor/dune-repo"]
+	path = vendor/dune-repo
+	url = https://github.com/ocaml/dune.git
+[submodule "vendor/js_of_ocaml"]
+	path = vendor/js_of_ocaml
+	url = https://github.com/dra27/js_of_ocaml.git
+[submodule "vendor/lambdasoup"]
+	path = vendor/lambdasoup
+	url = https://github.com/aantron/lambdasoup.git
+[submodule "vendor/markup.ml"]
+	path = vendor/markup.ml
+	url = https://github.com/aantron/markup.ml
+[submodule "vendor/memtrace"]
+	path = vendor/memtrace
+	url = https://github.com/janestreet/memtrace
+[submodule "vendor/memtrace_viewer_with_deps"]
+	path = vendor/memtrace_viewer_with_deps
+	url = https://github.com/dra27/memtrace_viewer_with_deps.git
+[submodule "vendor/menhir"]
+	path = vendor/menhir
+	url = https://gitlab.inria.fr/fpottier/menhir.git
+[submodule "vendor/ocaml-compiler-libs"]
+	path = vendor/ocaml-compiler-libs
+	url = https://github.com/janestreet/ocaml-compiler-libs.git
+[submodule "vendor/ocaml-migrate-parsetree"]
+	path = vendor/ocaml-migrate-parsetree
+	url = https://github.com/ocaml-ppx/ocaml-migrate-parsetree.git
+[submodule "vendor/ocaml-re"]
+	path = vendor/ocaml-re
+	url = https://github.com/ocaml/ocaml-re.git
+[submodule "vendor/octavius"]
+	path = vendor/octavius
+	url = https://github.com/ocaml-doc/octavius.git
+[submodule "vendor/ppx_derivers"]
+	path = vendor/ppx_derivers
+	url = https://github.com/ocaml-ppx/ppx_derivers.git
+[submodule "vendor/ppx_tools_versioned"]
+	path = vendor/ppx_tools_versioned
+	url = https://github.com/ocaml-ppx/ppx_tools_versioned.git
+[submodule "vendor/ppxlib"]
+	path = vendor/ppxlib
+	url = https://github.com/ocaml-ppx/ppxlib.git
+[submodule "vendor/result"]
+	path = vendor/result
+	url = https://github.com/janestreet/result.git
+[submodule "vendor/sexplib0"]
+	path = vendor/sexplib0
+	url = https://github.com/janestreet/sexplib0.git
+[submodule "vendor/stdlib-shims"]
+	path = vendor/stdlib-shims
+	url = https://github.com/ocaml/stdlib-shims.git
+[submodule "vendor/stringext"]
+	path = vendor/stringext
+	url = https://github.com/rgrinberg/stringext.git
+[submodule "vendor/uutf"]
+	path = vendor/uutf
+	url = https://github.com/dune-universe/uutf.git

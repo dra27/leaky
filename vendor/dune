@@ -1,0 +1,1 @@
+(subdir dune-repo (data_only_dirs test))
